@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "# "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sand",
+             "data": 0
+        }
+    },
+    "result": {
+        "item": "ljonesmod:ljonesbadasspickaxe",
+        "data": 0
+    }
+}
